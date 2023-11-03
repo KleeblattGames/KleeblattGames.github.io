@@ -2,32 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+**WAX Community/Earn Hub**
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Linking WAX Blockchain with Offerwall networks while offering guidance for new users and introducing cross-selling opportunities for existing WAX projects. 
+> Developed by KleeBlatt.Games financed by WAX Labs. Checkout the latest projects from WAX Labs and Updates about the WAX Community/Earn Hub: [labs.wax.io](https://labs.wax.io/).
 
 
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
 ### Deliverables 2/3 completed
 
@@ -38,7 +20,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
   User: admin@gmail.com
   Password: test
 
-  Content:
+  - SmartCOntract developed for Staking of $KLEE.
   - Mobile View is disabled 
   - Access only for invited Users - User can access the site but not attend activities. 
     - 4 x Offerwall Provider Integration
