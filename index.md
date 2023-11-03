@@ -11,7 +11,7 @@ layout: default
 
 
 
-### Deliverables 2/3 completed
+### Deliverables 2/3 completed - 04.11.2023
 
 - CLOSED BETA DELIVERY - DELIVERABLE 2
   
