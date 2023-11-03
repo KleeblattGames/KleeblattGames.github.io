@@ -29,20 +29,21 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 1.  Item three
 1.  Item four
 
-### Milestone & Deliverable Overview
+### Deliverables 2/3 completed
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- CLOSED BETA DELIVERY - DELIVERABLE 2
+  Disclaimer: During Closed Beta Access and participation is "invite only". Since we still want to give the wax labs community
+  the option to get a first impression you can access the portal with a dedicated test account that can complete offers
+  and participate on surveys but WILL NOT RECEIVE THE OPTION FOR A WITHDRAWAL of rewards.
+  User: admin@gmail.com
+  Password: test
+
+  Content:
+  - Mobile View is disabled 
+  - Access only for invited Users - User can access the site but not attend activities. 
+    - 4 x Offerwall Provider Integration
+    - Via Individual Offer Query
+    - IFrame odder rotation
+    - Exclusive Offers send via E-Mail
 
 
