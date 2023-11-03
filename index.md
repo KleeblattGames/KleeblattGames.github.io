@@ -14,11 +14,12 @@ layout: default
 ### Deliverables 2/3 completed
 
 - CLOSED BETA DELIVERY - DELIVERABLE 2
-  Disclaimer: During Closed Beta Access and participation is "invite only". Since we still want to give the wax labs community
+  
+  **Disclaimer: During Closed Beta Access and participation is "invite only". Since we still want to give the wax labs community
   the option to get a first impression you can access the portal with a dedicated test account that can complete offers
   and participate on surveys but WILL NOT RECEIVE THE OPTION FOR A WITHDRAWAL of rewards.
   User: admin@gmail.com
-  Password: test
+  Password: test**
 
   - SmartCOntract developed for Staking of $KLEE.
   - Mobile View is disabled 
