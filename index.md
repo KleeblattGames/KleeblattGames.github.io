@@ -22,12 +22,9 @@ layout: default
     - IFrame odder rotation
     - Exclusive Offers send via E-Mail
       
-- CLOSED BETA TEST ACCESS
+- CLOSED BETA TEST-USER ACCESS
 
--   **Disclaimer: During Closed Beta Access and participation is "invite only". Since we still want to give the wax labs community  e option to get a first impression you can access the portal with a dedicated test account that can complete offers
+   **Disclaimer: During Closed Beta Access and participation is "invite only". Since we still want to give the wax labs community  e option to get a first impression you can access the portal with a dedicated test account that can complete offers
      d participate on surveys but WILL NOT RECEIVE THE OPTION FOR A WITHDRAWAL of rewards.**
 
-  https://TBD
-  User: admin@gmail.com
-  Password: test**
-
+ 
