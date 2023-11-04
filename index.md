@@ -14,13 +14,13 @@ layout: default
 CLOSED BETA DELIVERY - DELIVERABLE 2
   - **Backend/Offer Hub: Callback Integration(2x)/CMS/Administration backend**
     - Callback Integration(2x)
-      - Route: [view github repository ](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/routes/web.php)
-      - Controller: [view github repository ](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/app/Http/Controllers/EarnController.php)
+      - Route: [view github code](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/routes/web.php)
+      - Controller: [view github code](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/app/Http/Controllers/EarnController.php)
     - CMS/Administration backend
-      - laravel aragon backend [view github repository ](https://github.com/KleeblattGames/argon-dashboard-laravel)
-      - CMS: [view github repository ](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/app)
+      - laravel aragon backend [view github code](https://github.com/KleeblattGames/argon-dashboard-laravel)
+      - CMS: [view github code](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/app)
   - **Frontend: Community Hub Setup**
-      - [view github repository](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/database)
+      - [view github code](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/database)
 
 DELIVERABLE 2 CONNENTS
 Drop me a message via telegram @frederik8811 if you have any questions.
