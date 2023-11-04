@@ -24,8 +24,7 @@ layout: default
   --Frontend: Community Hub Setup
   ---https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/database
 
-- CLOSED BETA DELIVERY - DELIVERABLE 2 CONNENTS
-
+DELIVERABLE 2 CONNENTS
 We try to fully manage our code via github in order to share the progress with everyone - atleast to the extend that we have to make sure to not share data sensitive information. Due to some unexpected events we already suffered our first external attack on our development servers so we migrated these behind our cloudflare account and implemented the protection policies already a little ahead of the previously planned schedule. Drop me a message via telegram @frederik8811 if you are interested for a staging preview.
       
 
