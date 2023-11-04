@@ -13,7 +13,7 @@ layout: default
 
 ### Deliverables 2/3 completed - 04.11.2023
 
-- CLOSED BETA DELIVERY - DELIVERABLE 2
+CLOSED BETA DELIVERY - DELIVERABLE 2
   - Backend/Offer Hub: Callback Integration(2x)/CMS/Administration backend
     - Callback Integration(2x)
       - Route: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/routes/web.php
