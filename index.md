@@ -21,6 +21,9 @@ layout: default
     - Via Individual Offer Query
     - IFrame odder rotation
     - Exclusive Offers send via E-Mail
+
+- We are currently discusing with over 10 partner projects/blocchain games actively about different promotions and foudn two exclusively for us creating guides and totorials.
+
       
 - CLOSED BETA TEST-USER ACCESS
 
