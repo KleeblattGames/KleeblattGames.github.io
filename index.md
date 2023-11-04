@@ -24,15 +24,14 @@ layout: default
 
 - We are currently discusing with over 10 partner projects/blocchain games actively about different promotions and foudn two exclusively for us creating guides and totorials.
 
-KleeBlatt.Games portal: https://github.com/KleeblattGames/KleeblattGames.github.io
-WAX-Earn-HUB Laravel Framework: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub
-
+> KleeBlatt.Games portal: https://github.com/KleeblattGames/KleeblattGames.github.io
+> WAX-Earn-HUB Laravel MAIN Framework: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub
+> WAX Smart Contract Developement: https://github.com/KleeblattGames/WAXSmartContract-Development
 
 
       
 - CLOSED BETA TEST-USER ACCESS
 
-   **Disclaimer: During Closed Beta Access and participation is "invite only". Since we still want to give the wax labs community  e option to get a first impression you can access the portal with a dedicated test account that can complete offers
-     d participate on surveys but WILL NOT RECEIVE THE OPTION FOR A WITHDRAWAL of rewards.**
+**Disclaimer: During Closed Beta Access and participation is "invite only". Since we still want to give the wax labs community  e option to get a first impression you can access the portal with a dedicated test account that can complete offers and participate on surveys but WILL NOT RECEIVE THE OPTION FOR A WITHDRAWAL of rewards.**
 
  
