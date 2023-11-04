@@ -16,8 +16,8 @@ layout: default
 CLOSED BETA DELIVERY - DELIVERABLE 2
   - **Backend/Offer Hub: Callback Integration(2x)/CMS/Administration backend**
     - Callback Integration(2x)
-      - Route: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/routes/web.php
-      - Controller: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/app/Http/Controllers/EarnController.php
+      - Route: <a href>https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/routes/web.php</a>
+      - Controller: <a href>https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/app/Http/Controllers/EarnController.php</a>
     - CMS/Administration backend
       - laravel aragon backend https://github.com/KleeblattGames/argon-dashboard-laravel
       - CMS: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/app
