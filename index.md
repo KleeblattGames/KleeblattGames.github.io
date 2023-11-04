@@ -9,7 +9,6 @@ layout: default
 > Developed by KleeBlatt.Games financed by WAX Labs. Checkout the latest projects from WAX Labs and Updates about the WAX Community/Earn Hub: [labs.wax.io](https://labs.wax.io/).
 
 
-
 ### Deliverables 2/3 completed - 04.11.2023
 
 CLOSED BETA DELIVERY - DELIVERABLE 2
@@ -18,10 +17,10 @@ CLOSED BETA DELIVERY - DELIVERABLE 2
       - Route: [view github repository ](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/routes/web.php)
       - Controller: [view github repository ](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/app/Http/Controllers/EarnController.php)
     - CMS/Administration backend
-      - laravel aragon backend https://github.com/KleeblattGames/argon-dashboard-laravel
-      - CMS: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/app
+      - laravel aragon backend [view github repository ](https://github.com/KleeblattGames/argon-dashboard-laravel)
+      - CMS: [view github repository ](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/app)
   - **Frontend: Community Hub Setup**
-      - https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/database
+      - [view github repository](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/database)
 
 DELIVERABLE 2 CONNENTS
 Drop me a message via telegram @frederik8811 if you have any questions.
