@@ -36,7 +36,7 @@ layout: default
 </style>
 <div id="mc_embed_signup">
     <form action="https://games.us10.list-manage.com/subscribe/post?u=538ea802504bed43ad0cd1155&amp;id=c458ec83d8&amp;f_id=009fd1e5f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-        <div id="mc_embed_signup_scroll"><h2>Apply for Closed Beta Access</h2>
+        <div id="mc_embed_signup_scroll"><h2>Apply for Closed Beta Access via Newsletter signup</h2>
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
             <div class="mc-field-group input-group"><strong>labs.wax.io member </strong><ul><li><input type="radio" name="MMERGE7" id="mce-MMERGE70" value="Yes"><label for="mce-MMERGE70">Yes</label></li><li><input type="radio" name="MMERGE7" id="mce-MMERGE71" value="No"><label for="mce-MMERGE71">No</label></li></ul></div><div class="mc-field-group"><label for="mce-EMAIL">E-Mail-Adresse <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-MMERGE6">WAX Account Name <span class="asterisk">*</span></label><input type="text" name="MMERGE6" class="required text" id="mce-MMERGE6" required="" value=""><span id="mce-MMERGE6-HELPERTEXT" class="helper_text">Your Closed Beta account will be bound to your WAX account.</span></div>
         <div id="mce-responses" class="clear foot">
