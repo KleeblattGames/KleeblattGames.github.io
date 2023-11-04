@@ -24,6 +24,11 @@ layout: default
 
 - We are currently discusing with over 10 partner projects/blocchain games actively about different promotions and foudn two exclusively for us creating guides and totorials.
 
+KleeBlatt.Games portal: https://github.com/KleeblattGames/KleeblattGames.github.io
+WAX-Earn-HUB Laravel Framework: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub
+
+
+
       
 - CLOSED BETA TEST-USER ACCESS
 
