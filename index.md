@@ -57,7 +57,7 @@ layout: default
 </form>
 </div>
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[7]='MMERGE7';ftypes[7]='radio';fnames[0]='EMAIL';ftypes[0]='email';fnames[6]='MMERGE6';ftypes[6]='text';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
-
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/538ea802504bed43ad0cd1155/069200c6fc28029b270343ee9.js");</script>
 Drop us a message via telegram @frederik8811 if you only want a Test-Account :)
 
 **Disclaimer: During Closed Beta Access and participation is "invite only". Since we still want to give the wax labs community  e option to get a first impression you can access the portal with a dedicated test account that can complete offers and participate on surveys but WILL NOT RECEIVE THE OPTION FOR A WITHDRAWAL of rewards.**
