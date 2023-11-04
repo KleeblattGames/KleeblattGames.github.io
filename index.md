@@ -23,7 +23,7 @@ CLOSED BETA DELIVERY - DELIVERABLE 2
       - [view github code](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/database)
 
 DELIVERABLE 2 CONNENTS
-Drop me a message via telegram @frederik8811 if you have any questions.
+Drop me a message via telegram @frederik8811 if you have any questions. Our staging system is protected by cloudflare due to recent attacks - if interested let me now and I can whitelist your address.
       
 
 
