@@ -14,19 +14,18 @@ layout: default
 ### Deliverables 2/3 completed - 04.11.2023
 
 - CLOSED BETA DELIVERY - DELIVERABLE 2
-
-> Backend/Offer Hub: Callback Integration(2x)/CMS/Administration backend
->> Callback Integration(2x)
->>> Route: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/routes/web.php
->>> Controller: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/app/Http/Controllers/EarnController.php
->> CMS/Administration backend
->>> laravel aragon backend https://github.com/KleeblattGames/argon-dashboard-laravel
->>> CMS: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/app
-> Frontend: Community Hub Setup
->> https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/database
+  --Backend/Offer Hub: Callback Integration(2x)/CMS/Administration backend
+  --Callback Integration(2x)
+  ---Route: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/routes/web.php
+  ---Controller: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/app/Http/Controllers/EarnController.php
+  --CMS/Administration backend
+  ---laravel aragon backend https://github.com/KleeblattGames/argon-dashboard-laravel
+  ---CMS: https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/app
+  --Frontend: Community Hub Setup
+  ---https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/database
 
 - CLOSED BETA DELIVERY - DELIVERABLE 2 CONNENTS
-- 
+
 We try to fully manage our code via github in order to share the progress with everyone - atleast to the extend that we have to make sure to not share data sensitive information. Due to some unexpected events we already suffered our first external attack on our development servers so we migrated these behind our cloudflare account and implemented the protection policies already a little ahead of the previously planned schedule. Drop me a message via telegram @frederik8811 if you are interested for a staging preview.
       
 
