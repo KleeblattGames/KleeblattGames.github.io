@@ -27,10 +27,7 @@ CLOSED BETA DELIVERY - DELIVERABLE 2
   - **Frontend: Community Hub Setup**
       - [view ressources - css/js/views -](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/resources)
   
-  Note: We use bootstap framework. For this part the "technolgy" aspect is not the key challange rather - creation and design - of "smart content to educate and social conntect people" as explained in our pitch document. We will provide this as part of deliverable3.
-
-DELIVERABLE 2 COMMENT
-Our staging system is protected by cloudflare due to recent attacks - if interested, let me know now and I can whitelist your address.
+  Note: We use bootstap framework. For this part the "technolgy" aspect is not the key challange rather - creation and design - of "smart content to educate and social conntect people" as explained in our pitch document. We will provide this as part of deliverable3. Our staging system is protected by cloudflare due to recent attacks - if interested, let me know now and I can whitelist your address.
       
 
 
