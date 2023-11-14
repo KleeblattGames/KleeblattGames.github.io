@@ -20,7 +20,7 @@ CLOSED BETA DELIVERY - DELIVERABLE 2
         - [EarnController - frontend with various display options - ](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/app/Http/Controllers/EarnController.php)
         - [Postback - receive&store restfull API calls - ](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/mainofferwall/app/Http/Controllers/NotikPostbackController.php)
     - laravel aragon backend
-      -[administrative backend offer/user management](https://github.com/KleeblattGames/argon-dashboard-laravel)
+       - [administrative backend offer/user management](https://github.com/KleeblattGames/argon-dashboard-laravel)
   
   Note: For WaxDevs who wish to adapt/use offerwalls inside theire apps (without SaaS in the middle) they can use our github repo to build and deploy there own. We will provide a guide later on
   
