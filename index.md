@@ -15,25 +15,22 @@ CLOSED BETA DELIVERY - DELIVERABLE 2
   - **Backend/Offer Hub: Callback Integration(2x)/CMS/Administration backend**
     - Callback Integration(2x)
       - Route
-        - [view github code](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/routes/web.php)
+        - [user/app routing](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/routes/web.php)
       - Controller
-        - [view EarnController - enables various display options on hub - ](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/app/Http/Controllers/EarnController.php)
-        - [view postback - receive&store restfull API calls - ](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/mainofferwall/app/Http/Controllers/NotikPostbackController.php)
-    - CMS/Administration backend. We will provide a guide later on.
+        - [EarnController - frontend with various display options - ](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/main/offerwall/app/Http/Controllers/EarnController.php)
+        - [Postback - receive&store restfull API calls - ](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/blob/mainofferwall/app/Http/Controllers/NotikPostbackController.php)
       - laravel aragon backend
-        -[view github code](https://github.com/KleeblattGames/argon-dashboard-laravel)
-      - CMS
-        -[view github code](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/app)
+        -[administrative backend offer/user management](https://github.com/KleeblattGames/argon-dashboard-laravel)
   
-  Note: For WaxDevs who wish to adapt/use offerwalls inside theire apps (without SaaS in the middle) they can use our github repo to build and deploy there own.
+  Note: For WaxDevs who wish to adapt/use offerwalls inside theire apps (without SaaS in the middle) they can use our github repo to build and deploy there own. We will provide a guide later on
   
   - **Frontend: Community Hub Setup**
       - [view ressources - css/js/views -](https://github.com/KleeblattGames/WAX-Earn-and-Community-Hub/tree/main/offerwall/resources)
   
-  Note: Since the community hub will become essential for Open Beta (delivered with deliverable 3) and is an important feature of connecting the wax community with potential new users we are currently creating a lot of content for it that will be delivered after lecturing is finished.
+  Note: We use bootstap framework. For this part the "technolgy" aspect is not the key challange rather - creation and design - of "smart content to educate and social conntect people" as explained in our pitch document. We will provide this as part of deliverable3.
 
 DELIVERABLE 2 COMMENT
-Our staging system is protected by cloudflare due to recent attacks - if interested, let me know now and I can whitelist your address.Drop me a message via Telegram @frederik8811 if you have any questions. 
+Our staging system is protected by cloudflare due to recent attacks - if interested, let me know now and I can whitelist your address.
       
 
 
