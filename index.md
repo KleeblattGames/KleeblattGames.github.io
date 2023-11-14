@@ -30,7 +30,7 @@ CLOSED BETA DELIVERY - DELIVERABLE 2
   Note: We use bootstap framework. For this part the "technolgy" aspect is not the key challange rather - creation and design - of "smart content to educate and social conntect people" as explained in our pitch document. We will provide this as part of deliverable3. Our staging system is protected by cloudflare due to recent attacks - if interested, let me know now and I can whitelist your address.
       
 
-**... but wait! We did alot more awsome work (like initial smart contract development for our hub reward token/staking). Visit our full github repository :-)**
+**... but wait! We did alot more awsome work! Visit our full github repository :-)**
 
 
 ### CLOSED BETA ACCESS
