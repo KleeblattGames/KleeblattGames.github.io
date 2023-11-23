@@ -5,8 +5,8 @@ layout: default
 
 **WAX Community/Earn Hub**
 
-> Linking WAX Blockchain with Offerwall networks while offering guidance for new users and introducing cross-selling opportunities for existing WAX projects. 
-> Developed by KleeBlatt.Games financed by WAX Labs. Checkout the latest projects from WAX Labs and Updates about the WAX Community/Earn Hub: [labs.wax.io](https://labs.wax.io/).
+> Visit us at wax-hub.kleeblatt.games and pre-register now.
+> We value feedback alot if you want to share ideas/bugs please visit our canny.io page.
 
 ### ☘️ +++UPDATE+++ CLOSED BETA NEWS +++UPDATE+++ ☘️
 
