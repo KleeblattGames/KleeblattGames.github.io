@@ -7,6 +7,8 @@ layout: default
 
 > Visit us at wax-hub.kleeblatt.games and pre-register now.
 > We value feedback alot if you want to share ideas/bugs please visit our canny.io page.
+> Offerwalls will be under maintenance 23/11/2023 6:00 PM GMT+2 to 11:00 PM GMT+2 and HUB 9:00 PM GMT+2
+
 
 ### ☘️ +++UPDATE+++ CLOSED BETA NEWS +++UPDATE+++ ☘️
 
