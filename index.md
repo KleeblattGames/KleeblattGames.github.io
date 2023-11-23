@@ -9,6 +9,11 @@ layout: default
 > We value feedback alot if you want to share ideas/bugs please visit our canny.io page.
 > Offerwalls will be under maintenance 23/11/2023 6:00 PM GMT+2 to 11:00 PM GMT+2 and HUB 9:00 PM GMT+2
 
+>For early birds couple test-accounts (X == 01-03):
+>User: tester_X@kleeblatt.games
+>Password: LabsTester_X_pwd
+>*You can complete offers but withhdrawals are disabled*
+
 
 ### ☘️ +++UPDATE+++ CLOSED BETA NEWS +++UPDATE+++ ☘️
 
