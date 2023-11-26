@@ -2,9 +2,6 @@
 layout: default
 ---
 
-
-**WAX Community/Earn Hub**
-
 > Visit us at wax-hub.kleeblatt.games and pre-register now.
 > We value feedback alot if you want to share ideas/bugs please visit our canny.io page.
 > Offerwalls will be under maintenance 23/11/2023 6:00 PM GMT+2 to 11:00 PM GMT+2 and HUB 9:00 PM GMT+2
@@ -13,6 +10,20 @@ layout: default
 >User: tester_X@kleeblatt.games
 >Password: LabsTester_X_pwd
 >*You can complete offers but withhdrawals are disabled*
+
+### ☘️ +++UPDATE+++ UPCOMING FEATURE LIST +++UPDATE+++ ☘️
+
+-Wax Cloud Wallet integration
+--Auth with wax wallet to store wax_address inside HUB for withdrawal to remove human errors.
+--boost.wax & new active users will receive a free wallet sponsored by us.
+--Automatic withdrawals for verified wax_wallets.
+-Staking KLEE for a weekly profit share of the HUB.
+-5 new offerwall providers (including affiliate/wax_dev promo options
+-Revamped Community area with news feeds & chat.
+-- New cooperations with active wax_community guilds (stay tuned, pritty cool stuff upcomming!!)
+--GERMAN loca.
+-Platform updates: Notifications/Chat/Withdrawal history.
+
 
 
 ### ☘️ +++UPDATE+++ CLOSED BETA NEWS +++UPDATE+++ ☘️
