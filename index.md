@@ -5,7 +5,24 @@ layout: default
 > Visit us at wax-hub.kleeblatt.games and pre-register now.
 > We value feedback alot if you want to share ideas/bugs please visit our canny.io page.
 
-### ☘️ 23/11/2023 Upcomming Features  - ☘️
+### ☘️ 31/11/2023 CHANGELOG ☘️
+
+- Mobile User notification if system detects compatibility issues. *Beta Only Feature*
+- Offerwall & Survey provider integration finished
+ - Bitlabs Surveys postback hande & user view integration.
+ - Pollfish Surveys postback handle & user view integration.
+ - AyeT Offerwall postback handle & user view integration
+- Basic Learn&Earn quests implemented
+  - Users will be able to complete a series of tasks to unlock a final reward.
+  - For now implemented tracking based on google analytics but we will need to move to our own system later
+- Twitter Feed Setup
+  - For now we will use the @wax_io later on we will use our own.
+  - Added various beta, error & usability message.
+- Basic Setup for upcomming notification system & email system done.
+ - As I had to keep future cost & scalability in mind I decided to setup all backgrund services on our own servers. It was a bit more work - still is - but we will reduce future hosting and operations costs.
+ - Smaller & medium size content changes and smaller UI/css adaptions.
+
+### ☘️ 23/11/2023 FEATURE BACKLOG  - ☘️
 
 - Wax Cloud Wallet integration
   - Auth with wax wallet to store wax_address inside HUB for withdrawal to remove human errors.
@@ -20,7 +37,7 @@ layout: default
 
 
 
-### ☘️ Notes 21.11.2023 ☘️
+### ☘️ 21/11/2023 CHANGELOG ☘️
 
 - We are very happy to be able to remove all cloudflare protections inclduing the resulting access limitations for the Hub. Please be aware that at some locations it may take up to 48hours to propagate the changes to the world wide web. 
 - Access on https://waxhub.kleeblatt.game. You can directly Pre-Register on the website, we will unlock the accounts in waves. :)
