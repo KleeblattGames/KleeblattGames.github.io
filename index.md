@@ -4,29 +4,23 @@ layout: default
 
 > Visit us at wax-hub.kleeblatt.games and pre-register now.
 > We value feedback alot if you want to share ideas/bugs please visit our canny.io page.
-> Offerwalls will be under maintenance 23/11/2023 6:00 PM GMT+2 to 11:00 PM GMT+2 and HUB 9:00 PM GMT+2
 
->For early birds couple test-accounts (X == 01-03):
->User: tester_X@kleeblatt.games
->Password: LabsTester_X_pwd
->*You can complete offers but withhdrawals are disabled*
+### ☘️ 23/11/2023 Upcomming Features  - ☘️
 
-### ☘️ +++UPDATE+++ UPCOMING FEATURE LIST +++UPDATE+++ ☘️
-
--Wax Cloud Wallet integration
---Auth with wax wallet to store wax_address inside HUB for withdrawal to remove human errors.
---boost.wax & new active users will receive a free wallet sponsored by us.
---Automatic withdrawals for verified wax_wallets.
--Staking KLEE for a weekly profit share of the HUB.
--5 new offerwall providers (including affiliate/wax_dev promo options
--Revamped Community area with news feeds & chat.
--- New cooperations with active wax_community guilds (stay tuned, pritty cool stuff upcomming!!)
---GERMAN loca.
--Platform updates: Notifications/Chat/Withdrawal history.
+- Wax Cloud Wallet integration
+  - Auth with wax wallet to store wax_address inside HUB for withdrawal to remove human errors.
+  - boost.wax & new active users will receive a free wallet sponsored by us.
+  - Automatic withdrawals for verified wax_wallets.
+- Staking KLEE for a weekly profit share of the HUB
+- 5 new offerwall providers (including affiliate/wax_dev promo options
+- Revamped Community area with news feeds & chat.
+ - New cooperations with active wax_community guilds (stay tuned, pritty cool stuff upcomming!!)
+ - German localiation
+ - latform updates: Notifications/Chat/Withdrawal history.
 
 
 
-### ☘️ +++UPDATE+++ CLOSED BETA NEWS +++UPDATE+++ ☘️
+### ☘️ Notes 21.11.2023 ☘️
 
 - We are very happy to be able to remove all cloudflare protections inclduing the resulting access limitations for the Hub. Please be aware that at some locations it may take up to 48hours to propagate the changes to the world wide web. 
 - Access on https://waxhub.kleeblatt.game. You can directly Pre-Register on the website, we will unlock the accounts in waves. :)
