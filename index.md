@@ -2,8 +2,20 @@
 layout: default
 ---
 
-> Visit us at wax-hub.kleeblatt.games and pre-register now.
-> We value feedback alot if you want to share ideas/bugs please visit our canny.io page.
+> Planned downtime: 01.02.2024 1PM GMT+1 - 04.02.2024 1PM GMT+1 migration and preperation of OBT release.
+> Please expect the portal unavailable most of the time during migration.
+
+-KleeBlatt.Games
+
+
+### ☘️ 01/02/2024 CHANGELOG ☘️
+
+- migrating infrastructure from digitalocean too microsoft azure.
+- fiishing last offerwall anti-fraud checks
+- finalization of new community area.
+- chat setup
+- launch event prep
+- OBT finalization
 
 ### ☘️ 31/11/2023 CHANGELOG ☘️
 
