@@ -2,10 +2,16 @@
 layout: default
 ---
 
-> Planned downtime: 01.02.2024 1PM GMT+1 - 04.02.2024 1PM GMT+1 migration and preperation of OBT release.
-> Please expect the portal unavailable most of the time during migration.
-
+> Planned downtime: N/A
 -KleeBlatt.Games
+
+
+🎂🎉🎈 BETA RELEASE 🎂🎉🎈 01/04/2024
+- Open Beta Release 1.0.2
+- 7 Offerwall setups done with various unlock setups enabled for users to progress.
+- finalization of new community area.
+- Open Beta Launch Event (giveaway.com) finished.
+
 
 
 ### ☘️ 01/02/2024 CHANGELOG ☘️
