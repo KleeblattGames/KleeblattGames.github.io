@@ -3,7 +3,6 @@ layout: default
 ---
 
 > ⚠️⚠️ CLOSED BETA USERS WILL HAVE TO CREATE A NEW ACCOUNT FOR THE PUBLIC RELEASE VERSION ⚠️⚠️
--KleeBlatt.Games
 
 
 ### ☘️ 29/04/2024 CHANGELOG ☘️
