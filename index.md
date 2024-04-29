@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Planned downtime: N/A
+> ATTENTION: CLOSED BETA USERS WILL HAVE TO CREATE A NEW ACCOUNT FOR THE PUBLIC RELEASE VERSION
 -KleeBlatt.Games
 
 
