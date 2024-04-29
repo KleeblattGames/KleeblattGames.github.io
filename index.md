@@ -6,6 +6,11 @@ layout: default
 -KleeBlatt.Games
 
 
+### ☘️ 29/04/2024 CHANGELOG ☘️
+- Fixed a Cloudflare domain recaptue issue for subdomains.
+- Automatic Giveaway & Ranking Reward distribution implemented.
+- Payouts are now automatic based on user trust score (User Level; Staking Level)
+
 🎂🎉🎈 BETA RELEASE 🎂🎉🎈 01/04/2024
 - Open Beta Release 1.0.2
 - 7 Offerwall setups done with various unlock setups enabled for users to progress.
